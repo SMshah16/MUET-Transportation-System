@@ -1,4 +1,4 @@
-1\. 🚍 MUET Transportation System  
+1\.  MUET Transportation System  
 
 &nbsp;  A comprehensive "C++ based transportation management system" developed for "Mehran University of Engineering and Technology (MUET), Jamshoro".  
 
@@ -6,7 +6,7 @@
 
 
 
-2\. 📋 Features  
+2\.  Features  
 
 &nbsp;  2.1 "User Authentication System" – Secure login with username \& password  
 
@@ -22,7 +22,7 @@
 
 
 
-3\. 🛠️ Technologies Used  
+3\.  Technologies Used  
 
 &nbsp;  3.1 "C++ Programming Language"  
 
@@ -34,7 +34,7 @@
 
 
 
-4\. 📁 Project Structure  
+4\.  Project Structure  
 
 ```
 
@@ -50,11 +50,11 @@ MUET-Transportation-System/
 
 
 
-5\. ⚙️ How to Compile and Run  
+5\.  How to Compile and Run  
 
 
 
-&nbsp;  5.1 ✅ Prerequisites  
+&nbsp;  5.1  Prerequisites  
 
 &nbsp;  - "C++ Compiler" (G++/MinGW recommended)  
 
@@ -62,7 +62,7 @@ MUET-Transportation-System/
 
 
 
-&nbsp;  5.2 🖥️ Compilation  
+&nbsp;  5.2  Compilation  
 
 &nbsp;  ```bash
 
@@ -82,7 +82,7 @@ MUET-Transportation-System/
 
 
 
-6\. 👥 Login Credentials (Demo)  
+6\.  Login Credentials (Demo)  
 
 | Username            | Password |
 
@@ -98,7 +98,7 @@ MUET-Transportation-System/
 
 
 
-7\. 💡 System Modules  
+7\.  System Modules  
 
 &nbsp;  7.1 "Official Buses" – University managed transport  
 
@@ -110,7 +110,7 @@ MUET-Transportation-System/
 
 
 
-8\. 🎯 Key Functions  
+8\.  Key Functions  
 
 &nbsp;  8.1 `username\_pass()` – User authentication  
 
@@ -126,7 +126,7 @@ MUET-Transportation-System/
 
 
 
-9\. 👨‍💻 Developer  
+9\.  Developer  
 
 &nbsp;  "S.M Shah"  
 
@@ -134,7 +134,7 @@ MUET-Transportation-System/
 
 
 
-10\. ⭐ If you like this project, consider giving it a "star" on GitHub!
+10\.  If you like this project, consider giving it a "star" on GitHub!
 
 
 
